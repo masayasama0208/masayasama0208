@@ -1,4 +1,4 @@
 ## Hi there 👋
 
-Interested in: Probabilistic Robotics,Computer Vision
+Interested in: Computational fluid mechanics
 
